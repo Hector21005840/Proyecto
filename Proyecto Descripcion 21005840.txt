@@ -1,0 +1,11 @@
+
+     El problema que la empresa de Seguros TK-U, que esta realizando las cotizaciones de forma manual
+lo que esto ocasiona que las cotizaciones se realicen de manera mas lenta, y los clientes pierdan tiempo
+valioso esperando su cotizacion. Y dicha cotizacion toma tiempo efectuar ya que se deben tomar en cuenta 
+ciertas condiciones que cada cliente brindara informacion de las mismas ya que se dara un resultado diferente
+en base a las condiciones presentadas, dichas condiciones pueden ser, La edad del asegurado que establece la empresa
+que debe ser mayor 18 años de edad, si la persona esta casada se tomara en cuenta la edad del conyuge o no, si 
+la persona esta soltera pero tiene hijos tambien puede afectar la cotizacion, si la persona tiene propiedades o no, 
+si el asegurado es asalariado tambien se debera aplicar un recargo por el mismo. Y en base a estas condiciones variadas 
+hacer el proceso de manera manual toma demaciado tiempo, asi que la Empresa solicita programa para poder realizar la 
+cotizacion de forma mas rapida y automatica. 

@@ -1,0 +1,23 @@
+1.	Se pregunta el Nombre del Asegurado. 
+
+2.      Se consulta la edad que debe ser mayor de 18 años, en caso de ser verdadero se continua el proceso, en caso contrario la solicitud será rechazada, no se podrá continuar con el cotizador.
+
+        2.1	Si es mayor de edad, Tomando en cuenta las siguientes condiciones: el plan base del seguro es de          Q.2,000.00, se lo pueden aplicar distintos recargos por la edad paso 3, si la persona esta casada se toma         en cuenta la edad del cónyuge paso 4,también aplica en la cantidad de hijos o hijas que tenga paso 5, se          consultara si posee propiedades paso 6, si el asegurado es asalariado paso 7.      
+ 
+
+3.	Si preguntara el asegurado tiene una edad de 18 a 24 años, se le hará recargo de 10% del precio base. Si tiene entre 25 a 49 años el recargo es de 20% y si tiene 50 años o más, el recargo será de 30% del precio base. 
+
+
+4.	Si el asegurado confirma estar casado, el paso 3 se repetirá con la edad del cónyuge, caso contrario se omite este paso.
+
+5.	Se preguntara al asegurado si tiene hijos o hijas, se le hará un recargo de 20% por cada hijo que se desee asegurar. Caso contrario se omite este paso.
+
+6.	Preguntar si el asegurado posee de propiedades, Si el asegurado posee 1 o mas propiedades se aplica recargo de 35% por cada propiedad. En el Caso de No contar con propiedades se omite este paso.
+
+7.	Se consulta si el asegurado es Asalariado, en caso Afirmativo de poseer ingresos se le debe aplicar un 5% sobre el salario del asegurado, de ser esto caso negativo se omite este paso.
+
+8.	Si el asegurado no posee cónyuge, hijos o hijas, propiedades o ingresos monetarios. El único recargo que no se podra omitir para el asegurado será por la Edad y se realizara lo que el paso 3 indica. 
+
+9.	Al finalizar las preguntas, todos los recargos serán sumados, agregando a esta suma el precio del plan base del seguro que es de Q.2,000.00, dando el resultado Final de la cotización para obtener un seguro.
+
+10.	Debe escribir la palabra “salir” para cerrar el cotizador, Si desea continuar Cotizando presione el boton "Cancelar".
